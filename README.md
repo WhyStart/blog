@@ -1,2 +1,2 @@
-# hugo-blog
+# blog
 blog
