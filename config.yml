@@ -1,5 +1,5 @@
 baseURL: "https://WhyStart.github.io"
-title: WhyStart'Blog
+title: Blog
 paginate: 5
 theme: PaperMod
 
@@ -62,7 +62,18 @@ params:
   ShowCodeCopyButtons: true
   ShowRssButtonInSectionTermList: true
   ShowToc: true
-  # comments: false
+  TocOpen: true
+  comments: false
+  commentsParams:
+    repo: WhyStart/blog
+    repoId: R_kgDOHGfaUQ
+    category: Announcements
+    categoryId: DIC_kwDOHGfaUc4CPAJE
+    mapping: title
+    reactionsEnabled: 1
+    emitMetadata: 1
+    inputPosition: top
+    lang: zh-CN
   images: ["papermod-cover.png"]
 
   profileMode:
