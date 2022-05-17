@@ -1,7 +1,7 @@
 baseURL: "https://WhyStart.github.io"
 title: Blog
 paginate: 5
-theme: PaperMod
+theme: PaperModX
 languageCode: en-us
 defaultContentLanguage: zh
 enableGitInfo: true
@@ -58,6 +58,7 @@ params:
   ShowRssButtonInSectionTermList: false
   ShowToc: true
   TocOpen: true
+  TocSide: 'left'
   comments: true
   DateFormat: 2006 年 1 月 2 日
   commentsParams:
