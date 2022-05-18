@@ -1,7 +1,7 @@
 baseURL: "https://WhyStart.github.io"
 title: Blog
 paginate: 5
-theme: PaperModX
+theme: PaperMod
 languageCode: en-us
 defaultContentLanguage: zh
 enableGitInfo: true
