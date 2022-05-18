@@ -12,6 +12,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
+summaryLength: 90
 # googleAnalytics: UA-123-45
 
 minify:
@@ -58,11 +59,11 @@ params:
   ShowRssButtonInSectionTermList: false
   ShowToc: true
   TocOpen: true
-  TocSide: 'left'
+  TocSide: 'right'
   comments: true
   DateFormat: 2006 年 1 月 2 日
   commentsParams:
-    repo: WhyStart/blog
+    repo: WhyStart/WhyStart.github.io
     repoId: R_kgDOHGfaUQ
     category: Announcements
     categoryId: DIC_kwDOHGfaUc4CPAJE
