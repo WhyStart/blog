@@ -64,9 +64,9 @@ params:
   DateFormat: 2006 年 1 月 2 日
   commentsParams:
     repo: WhyStart/WhyStart.github.io
-    repoId: R_kgDOHGfaUQ
+    repoId: R_kgDOHGfVTA
     category: Announcements
-    categoryId: DIC_kwDOHGfaUc4CPAJE
+    categoryId: DIC_kwDOHGfVTM4CPKs8
     mapping: title
     reactionsEnabled: 1
     emitMetadata: 1
